@@ -26,3 +26,25 @@ text-decoration: none;
 .behance{
 color: #f6416c;
 }
+
+.text-center{
+color: #f6416c;
+}
+
+#exp {
+background-color: #f6416c;
+color: white;
+padding: 30px 0;
+}
+
+#exp .exp-title {
+font-size: 24px;;
+font-weight: 700;
+}
+#exp h5 {
+font-size: 14px;
+font-weight: 700;
+}
+#exp p {
+    font-size: 14px;
+}
